@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+.venv/
+env/
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+# Editor settings
+.vscode/
+.idea/
+*.swp
+# Output files (large; keep locally only)
+*.pdf
+*.png
+*.eps
+# Data / temporary files
+*.npy
+*.npz
+*.dat
+*.log
